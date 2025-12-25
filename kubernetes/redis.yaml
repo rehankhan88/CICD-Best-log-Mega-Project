@@ -2,7 +2,7 @@ apiVersion: apps/v1
 kind: Deployment
 metadata:
   name: redis-deployment
-  namespace: rehan
+  namespace: rehan-khan
   labels:
     app: redis
 spec:
@@ -33,7 +33,7 @@ apiVersion: v1
 kind: Service
 metadata:
   name: redis-service
-  namespace: rehan
+  namespace: rehan-khan
 spec:
   selector:
     app: redis
