@@ -2,7 +2,7 @@ apiVersion: v1
 kind: PersistentVolumeClaim
 metadata:
   name: mongo-pvc
-  namespace: rehan
+  namespace: rehan-khan
 spec:
   accessModes:
     - ReadWriteOnce
