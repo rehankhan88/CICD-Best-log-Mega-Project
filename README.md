@@ -37,13 +37,13 @@ WanderLust is a simple MERN travel blog website ✈ This project is aimed to hel
 
 ### How pipeline will look after deployment:
 - <b>CI pipeline to build and push</b>
-![image](docs/images/Screenshot (102).png)
+<img src="https://github.com/rehankhan88/CICD-Best-log-Mega-Project/blob/main/docs/images/Screenshot (112).png" alt="">
 
 - <b>CD pipeline to update application version</b>
-![image](docs/images/Screenshot (102).png)
+<img src="https://github.com/rehankhan88/CICD-Best-log-Mega-Project/blob/main/docs/images/Screenshot (114).png" alt="">
 
 - <b>ArgoCD application for deployment on EKS</b>
-![image](docs/images/Screenshot (102).png)
+<img src="https://github.com/rehankhan88/CICD-Best-log-Mega-Project/blob/main/docs/images/Screenshot (102).png" alt="">
 
 #
 > [!Important]
