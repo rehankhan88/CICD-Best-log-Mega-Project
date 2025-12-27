@@ -16,6 +16,7 @@ WanderLust is a simple MERN travel blog website ✈ This project is aimed to hel
 
 ## Tech stack used in this project:
 - GitHub (Code)
+<img src="https://github.com/rehankhan88/CICD-Best-log-Mega-Project/blob/main/docs/images/Screenshot (102).png" alt="">
 - Docker (Containerization)
 - Jenkins (CI)
 - OWASP (Dependency check)
