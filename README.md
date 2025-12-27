@@ -16,16 +16,24 @@ WanderLust is a simple MERN travel blog website ✈ This project is aimed to hel
 
 ## Tech stack used in this project:
 - GitHub (Code)
-<img src="https://github.com/rehankhan88/CICD-Best-log-Mega-Project/blob/main/docs/images/Screenshot (102).png" alt="">
+<img src="https://github.com/rehankhan88/CICD-Best-log-Mega-Project/blob/main/docs/images/Screenshot (140).png" alt="">
 - Docker (Containerization)
+  <img src="https://github.com/rehankhan88/CICD-Best-log-Mega-Project/blob/main/docs/images/Screenshot (131).png" alt="">
 - Jenkins (CI)
+  <img src="https://github.com/rehankhan88/CICD-Best-log-Mega-Project/blob/main/docs/images/Screenshot (134).png" alt="">
 - OWASP (Dependency check)
+  <img src="https://github.com/rehankhan88/CICD-Best-log-Mega-Project/blob/main/docs/images/Screenshot (108).png" alt="">
 - SonarQube (Quality)
-- Trivy (Filesystem Scan)
+  <img src="https://github.com/rehankhan88/CICD-Best-log-Mega-Project/blob/main/docs/images/Screenshot (106).png" alt="">
 - ArgoCD (CD)
+  <img src="https://github.com/rehankhan88/CICD-Best-log-Mega-Project/blob/main/docs/images/Screenshot (107).png" alt="">
 - Redis (Caching)
+  <img src="https://github.com/rehankhan88/CICD-Best-log-Mega-Project/blob/main/docs/images/Screenshot (101).png" alt="">
 - AWS EKS (Kubernetes)
+  <img src="https://github.com/rehankhan88/CICD-Best-log-Mega-Project/blob/main/docs/images/Screenshot (42).png" alt="">
 - Helm (Monitoring using grafana and prometheus)
+  <img src="https://github.com/rehankhan88/CICD-Best-log-Mega-Project/blob/main/docs/images/Screenshot (123).png" alt="">
+  <img src="https://github.com/rehankhan88/CICD-Best-log-Mega-Project/blob/main/docs/images/Screenshot (130).png" alt="">
 
 ### How pipeline will look after deployment:
 - <b>CI pipeline to build and push</b>
