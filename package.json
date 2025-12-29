@@ -1,5 +1,4 @@
 {
-  "homepage": "https://github.com/rehankhan88/CICD-Best-log-Mega-Project.git"
   "dependencies": {
     "concurrently": "^8.2.2"
   },
